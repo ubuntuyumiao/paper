@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC   -shared -Wl,-soname,libgtest_main.so -o libgtest_main.so CMakeFiles/gtest_main.dir/src/gtest_main.cc.o  -L/home/ym/Documents/realsense2/build/gtest/gtest/src -Wl,-rpath,/home/ym/Documents/realsense2/build/gtest/gtest/src:/home/ym/Documents/realsense2/build/gtest/gtest -lpthread libgtest.so -lpthread 

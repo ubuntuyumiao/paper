@@ -1,0 +1,8 @@
+prefix=/home/ym/Documents/realsense2/devel
+
+Name: ddynamic_reconfigure
+Description: Description of ddynamic_reconfigure
+Version: 0.0.6
+Cflags: -I/home/ym/Documents/realsense2/devel/include -I/home/ym/Documents/realsense2/src/realsense/ddynamic_reconfigure/include
+Libs: -L/home/ym/Documents/realsense2/devel/lib -lddynamic_reconfigure
+Requires: dynamic_reconfigure message_runtime std_msgs

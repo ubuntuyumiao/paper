@@ -1,0 +1,2 @@
+realsense/ddynamic_reconfigure:realsense/realsense2_camera
+-DCATKIN_DEVEL_PREFIX=/home/ym/Documents/realsense2/devel -DCMAKE_INSTALL_PREFIX=/home/ym/Documents/realsense2/install -G Unix Makefiles
